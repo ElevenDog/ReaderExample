@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">NoteBook</string>
+    <string name="txt_night">夜间模式</string>
+    <string name="app_version">1.0.0.0</string>
+</resources>
